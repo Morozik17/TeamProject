@@ -20,4 +20,13 @@ img {
   margin: 0;
   padding: 0;
   list-style: none;
+}
+
+.link {
+  color: #000;
+  font-family: Montserrat Alternates;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }/*# sourceMappingURL=style.css.map */
